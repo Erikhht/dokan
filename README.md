@@ -1,5 +1,5 @@
 # dokan
-Automatically exported from code.google.com/p/dokan
+**Automatically exported from http://code.google.com/p/dokan**
 
 # Dokan : user-mode file system library for Windows #
 
